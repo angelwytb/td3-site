@@ -1,3 +1,4 @@
+
 <html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -115,7 +116,7 @@
         <div class="space-y-6">
             <h1 data-editable="text" contenteditable="false" class="editable-text text-4xl md:text-5xl font-bold text-orange-400 text-center editable--active" style="font-size: 72px;"><h1 data-editable="text" class="editable-text text-4xl md:text-5xl font-bold text-orange-400 text-center editable--active" style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-size: 72px; width: 1232px; --tw-text-opacity: 1; color: rgb(251, 146, 60);" contenteditable="false"><u style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;">Unit Expansion!</u></h1></h1>
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
-                <img src="https://cdn.discordapp.com/attachments/1426992316098281514/1444368663888007270/IMG_3575.png?ex=692c74a4&is=692b2324&hm=14252312d10ee7a50a116a3a236198d5f5b7817cc6a68544b451a9c79d548664&"
+                <img src="https://files.catbox.moe/02c6x6.png"
                 
             </div>
         </div>
@@ -137,7 +138,7 @@
             </div>
 
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 mt-6 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
-                <img src="https://cdn.discordapp.com/attachments/1426992316098281514/1443487526244450325/RobloxStudioBeta_9uhyIg5zIq.png?ex=692be304&is=692a9184&hm=bdebb0a397e99a7c6a514c4109c28586def6e91b8cf5170536148fbf3d01ceb4&"
+                <img src="https://files.catbox.moe/yxbov6.png"
                 
             </div>
         </div>
@@ -164,7 +165,7 @@
                 </div>
 
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 mb-8 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
-                <img src="https://cdn.discordapp.com/attachments/1426992316098281514/1444368233053294642/mKfghKp89mwAAAABJRU5ErkJggg.png?ex=692c743d&is=692b22bd&hm=49ecc8361e10f99960cb50bb81afcc329c56d1fdfa085ec8e740de4ee133cf3f&"
+                <img src="https://files.catbox.moe/yt2fb4.png"
                 
             </div>
             
@@ -194,7 +195,7 @@
             </div>
 
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
-                <img src="https://media.discordapp.net/attachments/1426992316098281514/1444367957408092243/lJsQAAAABJRU5ErkJggg.png?ex=692c73fc&is=692b227c&hm=d5d8b6c5ffdf1db4df8df2fa6ac624b3333dfc76f420106330ec82274c17c4b4&=&format=webp&quality=lossless&width=1782&height=854"
+                <img src="https://files.catbox.moe/3peml8.png"
                 
             </div>
         </section>
@@ -210,7 +211,7 @@
                 <p data-editable="text" contenteditable="false" class="editable-text text-lg text-gray-700 editable--active"><span style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;">Titanic Hacked Bunny&nbsp;</span>&amp;&nbsp;<span style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;">Huge Tech Monkey!</span></p><p data-editable="text" contenteditable="false" class="editable-text text-lg text-gray-700 editable--active"><span style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;"><i style="--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;">Only for a limited time!</i></span></p>
             </div>
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 mt-6 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
-                <img src="https://media.discordapp.net/attachments/1426992316098281514/1443487524130394174/RobloxStudioBeta_feMCQwqLOK.png?ex=692be304&is=692a9184&hm=3776eb96a389d51f8ef1391ab6df1e257ccd778e89b70a71587c5b7728caeb56&=&format=webp&quality=lossless&width=1766&height=846"
+                <img src="https://files.catbox.moe/3piyu7.png"
                 
             </div>
         </section>
@@ -238,6 +239,8 @@
 
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 mb-8 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
                 <img src="https://media.discordapp.net/attachments/1426992316098281514/1443487542564356179/Bh_PhKq123ddA.png?ex=692be308&is=692a9188&hm=6990f7631dfdbb825e5d942797ab88d76bc1f691c2d30fea716f07cabf2fb793&=&format=webp&quality=lossless"
+            <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 mb-8 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
+                <img src="https://files.catbox.moe/c4l48b.png"                
                 alt="Titanic Pets" class="w-full h-auto object-cover rounded-xl transition-all duration-200" onerror="handleImageError(event)">
             </div>
             
@@ -268,6 +271,7 @@
 
             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">
                 <img src="https://media.discordapp.net/attachments/1426992316098281514/1443487542237466644/Li_iXHHGXqImZ.png?ex=692be308&is=692a9188&hm=0cd7988d8941ddf63dc61c629e254ece820c96f149ce5a8e3865ee4150ad3c8e&=&format=webp&quality=lossless"
+             <div class="rounded-3xl overflow-hidden shadow-sm border-4 border-gray-100 relative transition-all duration-200 image-drag-indicator cursor-pointer" data-editable="image-container">               
                 <img src="https://files.catbox.moe/zx8n73.png" alt="Huge Pets" class="w-full h-auto object-cover rounded-xl transition-all duration-200" onerror="handleImageError(event)">
             </div>
         </section>
@@ -291,4 +295,3 @@
 
 
 </body></html>
-
